@@ -1,5 +1,4 @@
 ## Hi there 👋
-{Link: github-readme-stats https://dev.to.en2pt.search.translate.goog/github/10-standout-github-profile-readmes-h2o}
 
 <!--
 **TubaBlaze/TubaBlaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
