@@ -6,4 +6,4 @@
 - 💬 Ask me about my competence
 - 📫 How to reach me: 55+ (11) 997727735
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: godot is a awesome plataform for desenvolving game for mobile and computer
+- ⚡ Fun fact: godot is a awesome plataform for creating game for mobile and computer
